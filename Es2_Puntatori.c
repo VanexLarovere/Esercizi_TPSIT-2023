@@ -9,11 +9,11 @@
  #define LIM_MAX 20
 
  /*
- author: Noemi Baruffolo
+ author: Vanessa Larovere (Presa da Baruffolo perchÃ© assente)
  date: 9/10/2023
  es: 002
  text: Hai a disposizione un array di numeri interi disordinati,
- ordinare questo array in modo crescente non è necessario conoscere in anticipo la lunghezza dell'array.
+ ordinare questo array in modo crescente non ï¿½ necessario conoscere in anticipo la lunghezza dell'array.
  Si utilizzi la funzione swap: "swap(&arr[j], &arr[j + 1])" e l'algoritmo di ordinamento bubbleSort.
  */
 
