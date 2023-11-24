@@ -67,7 +67,6 @@ int main() {
     int n;
     int num;
     Node* lista = NULL;
-    Node* l;
 
     do {
         printf("Inserisci un numero naturale o -1 per terminare: ");
